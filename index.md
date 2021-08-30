@@ -50,7 +50,7 @@ a:active {
 
 </style>
 <body>
-<img src="DSC_8518.jpg" width="250" height: "365">
+<img src="DSC_8518.jpg" width="250" height: "365" style="float: left;" >
 <hr>
 <h1><pre> Hi, My name is Lisa Kiemde.</pre></h1>
 <p float = right;> I am a graduate student in MIS focusing in data analytics. I received a Bachelor's degree in 2016. My degree was in Secondary Math
