@@ -3,7 +3,7 @@
 <html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 <body>
 <h1 style="times;"><pre> Hi, My name is Lisa Kiemde.</pre></h1>
    <img "https://github.com/lgkiemde/Activity-2/blob/f47eefaa7616f0b6f1692277d89bc357e109981f/DSC_8518.jpg" width=250px; height=365px;/>
