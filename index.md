@@ -6,7 +6,7 @@
 
 <body>
 <h1 style="times;"><pre> Hi, My name is Lisa Kiemde.</pre></h1>
-   <img "DSC_8518.jpg" width=250px; height=365px;/>
+   <img "https://github.com/lgkiemde/Activity-2/blob/f47eefaa7616f0b6f1692277d89bc357e109981f/DSC_8518.jpg" width=250px; height=365px;/>
 <p>
  I am a graduate student in MIS focusing in data analytics. I received a Bachelor's degree in 2016. My degree was in Secondary Math
 Eduation. I realized that teaching, although rewarding, would not allow me to help my family in the way I thought they deserved to be cared for. 
