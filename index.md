@@ -3,10 +3,11 @@
 <html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <body>
 <h1 style="times;"><pre> Hi, My name is Lisa Kiemde.</pre></h1>
+    <img "DSC_8518.jpg" style ="float:left;width:250px; height:365px;">
 <p>
-  <img "DSC_8518.jpg" style ="float:left;width:250px; height:365px;">
  I am a graduate student in MIS focusing in data analytics. I received a Bachelor's degree in 2016. My degree was in Secondary Math
 Eduation. I realized that teaching, although rewarding, would not allow me to help my family in the way I thought they deserved to be cared for. 
 I wanted to do something interesting and math related. Thus, MIS with a focus in data analytics was my main choice. MIS allows me to be considered
