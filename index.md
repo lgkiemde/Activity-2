@@ -1,19 +1,13 @@
 
 <!DOCTYPE html>
 <html>
-### Activity 2 - Lisa Kiemde 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-  <head>
-<style>
-img {
-  float: left;
-}
-</style>
-  </head>
 <body>
-<h1><pre> Hi, My name is Lisa Kiemde.</pre></h1>
-<p><img "DSC_8518.jpg" style = "width:250px; height:365px; margin-left:15px;"> I am a graduate student in MIS focusing in data analytics. I received a Bachelor's degree in 2016. My degree was in Secondary Math
+<h1 style="times;"><pre> Hi, My name is Lisa Kiemde.</pre></h1>
+<p>
+  <img "DSC_8518.jpg" style ="float:left;width:250px; height:365px;">
+ I am a graduate student in MIS focusing in data analytics. I received a Bachelor's degree in 2016. My degree was in Secondary Math
 Eduation. I realized that teaching, although rewarding, would not allow me to help my family in the way I thought they deserved to be cared for. 
 I wanted to do something interesting and math related. Thus, MIS with a focus in data analytics was my main choice. MIS allows me to be considered
 for managing positions where I can use my teaching skills to help others. Data analytics allows me to do math and think indepth about a problem. 
