@@ -1,0 +1,15 @@
+.aboutpic {
+    display: flex;
+    margin: 1in;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    margin: 20px auto;
+    width: 400px;
+}
+h2 {
+    margin: 20px auto;
+    width: 400px;
+}
