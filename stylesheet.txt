@@ -111,7 +111,8 @@ FOOTER
 /*************************************
 PAGE:
 **************************************/
-.mydiv {background: lightblue; width:250px; height: 250px;}
+.aboutpic {
+display: flex; background: lightblue; max-width:50%; height: auto;}
 
 .myimage {
     float:left;
